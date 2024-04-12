@@ -102,7 +102,7 @@ while index < len(names):
 
 Distributed Version Control (DVCS) is a system where each developer has a complete copy of the repository, including its history. This contrasts with centralized systems where there's a single repository. DVCS, like Git and Mercurial, allows developers to work independently, offline if needed, and then sync changes with the central repository or share them directly with others.
 
-![Model databases.png](git_learning%2FModel%20databases.png)
+![Model databases.png](Model%20databases.png)
 
 - **Centralized Version Control Systems (CVCS)** have a **single central repository** that stores the project's files and history. Developers interact with this central repository to access and update files. 
 - **Distributed Version Control Systems (DVCS)** give each developer a complete **copy of the repository**, including its history. Developers work independently, often making changes locally, and then synchronize their work with others' copies of the repository.

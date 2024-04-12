@@ -76,6 +76,7 @@ Infinite loops occur when the loop condition always evaluates to true, causing t
 
 1. Make sure that the loop condition will eventually evaluate to false to **prevent infinite loops**. 
 <br>
+
 ```python
 num = 0
 while num < 5:
@@ -91,6 +92,7 @@ for i in range(5):
    ```
 3. **Selecting the suitable loop type:** Choose between for and while loops based on the specific needs of the task.
 <br>
+
 ``` python 
 names = ["Alice", "Bob", "Charlie"]
 index = 0

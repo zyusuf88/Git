@@ -38,14 +38,14 @@ git commit -m "First commit"
 ```
 
 # git log vs git diff 
-* The git log command displays committed snapshots. It lets you list the project history, filter it, and search for specific changes. 
+The git log command displays committed snapshots. It lets you list the project history, filter it, and search for specific changes. 
 <br>
-![Screenshot of git log](git_learning/git log picture.png)
+![git log picture.png](images/git%20log%20picture.png)
 
-* Whereas git diff show changes between commits, commit and working tree, etc.
+Whereas git diff show changes between commits, commit and working tree, etc.
 <br>
-![screenshot of git diff](git_learning/git diff picture.png)
 
+![git diff picture.png](images/git%20diff%20picture.png)
 
 # .gitignore
 
@@ -104,16 +104,14 @@ while index < len(names):
 
 Distributed Version Control (DVCS) is a system where each developer has a complete copy of the repository, including its history. This contrasts with centralized systems where there's a single repository. DVCS, like Git and Mercurial, allows developers to work independently, offline if needed, and then sync changes with the central repository or share them directly with others.
 
-
-![Model databases.png](Model%20databases.png)
-
+![model databases](images/Model%20databases.png)
 - **Centralized Version Control Systems (CVCS)** have a **single central repository** that stores the project's files and history. Developers interact with this central repository to access and update files. 
 - **Distributed Version Control Systems (DVCS)** give each developer a complete **copy of the repository**, including its history. Developers work independently, often making changes locally, and then synchronize their work with others' copies of the repository.
 
 ### What is GitHub?
 
 - Github allows developers to share code files and collaborate with fellow developers on open-source projects. GitHub also serves as a social networking site where developers can openly network, collaborate, and pitch their work.
-![Competitors of GitHub](https://static.startuptalky.com/2022/02/Top-Alternatives-for-GitHub-StartupTalky.jpg)
+![sdf](images/githubvsothers.jpg)
 - For example: GitLab offers a complete DevOps platform with features like version control, issue tracking, CI/CD pipelines, and more. It's often chosen by organizations looking for a self-hosted solution or an alternative to GitHub's pricing model.
 
 
@@ -124,7 +122,7 @@ Distributed Version Control (DVCS) is a system where each developer has a comple
  ***Below are the steps I took earlier:***
 <br>
 
-![local_to_repo.png](local_to_repo.png)
+![local_to_repo.png](images/local_to_repo.png)
 
 ### Repository to local :
 
@@ -135,5 +133,5 @@ To link a remote repository to a new local one:
 ***Below are the step I took to link Repo to local :***
 <br>
 
-![repo_to_local.png](repo_to_local.png) 
+![repo_to_local.png](images/repo_to_local.png) 
 

@@ -92,6 +92,7 @@ for i in range(5):
    ```
 3. **Selecting the suitable loop type:** Choose between for and while loops based on the specific needs of the task.
 <br>
+
 ``` python 
 names = ["Alice", "Bob", "Charlie"]
 index = 0

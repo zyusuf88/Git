@@ -85,11 +85,15 @@ while num < 5:
    ```
     
 2. Maintain a **concise loop** body to minimize unnecessary iterations and enhance performance. 
-<br>
-``` python
+
+
+
+``` python 
 for i in range(5):
     print(i)
-   ```
+```
+
+
 3. **Selecting the suitable loop type:** Choose between for and while loops based on the specific needs of the task.
 <br>
 

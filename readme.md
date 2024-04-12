@@ -76,6 +76,7 @@ Infinite loops occur when the loop condition always evaluates to true, causing t
 
 1. Make sure that the loop condition will eventually evaluate to false to **prevent infinite loops**. 
 <br>
+
 ```python
 num = 0
 while num < 5:
@@ -101,6 +102,7 @@ while index < len(names):
 ### Distributed Version Control
 
 Distributed Version Control (DVCS) is a system where each developer has a complete copy of the repository, including its history. This contrasts with centralized systems where there's a single repository. DVCS, like Git and Mercurial, allows developers to work independently, offline if needed, and then sync changes with the central repository or share them directly with others.
+
 
 ![Model databases.png](Model%20databases.png)
 

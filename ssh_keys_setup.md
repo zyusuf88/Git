@@ -38,7 +38,7 @@ ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
 
 **The new SSH key is now registered and ready to use!**
 
-
+![](images/SSH_Key.webp)
 
 
 
